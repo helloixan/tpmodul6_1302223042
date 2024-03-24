@@ -1,0 +1,15 @@
+C:\Users\iksan\source\repos\tpmodul6_1302223042\bin\Debug\net8.0\tpmodul6_1302223042.exe
+C:\Users\iksan\source\repos\tpmodul6_1302223042\bin\Debug\net8.0\tpmodul6_1302223042.deps.json
+C:\Users\iksan\source\repos\tpmodul6_1302223042\bin\Debug\net8.0\tpmodul6_1302223042.runtimeconfig.json
+C:\Users\iksan\source\repos\tpmodul6_1302223042\bin\Debug\net8.0\tpmodul6_1302223042.dll
+C:\Users\iksan\source\repos\tpmodul6_1302223042\bin\Debug\net8.0\tpmodul6_1302223042.pdb
+C:\Users\iksan\source\repos\tpmodul6_1302223042\obj\Debug\net8.0\tpmodul6_1302223042.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iksan\source\repos\tpmodul6_1302223042\obj\Debug\net8.0\tpmodul6_1302223042.AssemblyInfoInputs.cache
+C:\Users\iksan\source\repos\tpmodul6_1302223042\obj\Debug\net8.0\tpmodul6_1302223042.AssemblyInfo.cs
+C:\Users\iksan\source\repos\tpmodul6_1302223042\obj\Debug\net8.0\tpmodul6_1302223042.csproj.CoreCompileInputs.cache
+C:\Users\iksan\source\repos\tpmodul6_1302223042\obj\Debug\net8.0\tpmodul6_1302223042.sourcelink.json
+C:\Users\iksan\source\repos\tpmodul6_1302223042\obj\Debug\net8.0\tpmodul6_1302223042.dll
+C:\Users\iksan\source\repos\tpmodul6_1302223042\obj\Debug\net8.0\refint\tpmodul6_1302223042.dll
+C:\Users\iksan\source\repos\tpmodul6_1302223042\obj\Debug\net8.0\tpmodul6_1302223042.pdb
+C:\Users\iksan\source\repos\tpmodul6_1302223042\obj\Debug\net8.0\tpmodul6_1302223042.genruntimeconfig.cache
+C:\Users\iksan\source\repos\tpmodul6_1302223042\obj\Debug\net8.0\ref\tpmodul6_1302223042.dll
